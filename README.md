@@ -3,5 +3,5 @@ local host databse(mySQL) access through PHP
 
 
 Bugs:
-1)Server
-2)Access the database table
+1)Still Local Server
+2)Convert table into json format
