@@ -1,0 +1,13 @@
+form{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+input{
+    width:30%;
+    height:auto;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+}
